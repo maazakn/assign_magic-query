@@ -1,0 +1,5 @@
+ 'info.[].transport.[]=car',
+  'name.first_name=Sam',
+  'address.country=US',
+  'interests.[].sports.name=football',
+  'indredients.[].milk.[].cal=10'
